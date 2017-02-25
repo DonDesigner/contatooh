@@ -2,3 +2,6 @@
 /LIXO
 /.vscode
 /public/vendor
+*.pws
+.swp
+*.rar
