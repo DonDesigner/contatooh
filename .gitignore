@@ -1,7 +1,12 @@
+.tmp
+.DS_Store
+.DS_Store?
 /node_modules
 /LIXO
 /.vscode
 /public/vendor
+/dist
+/script
 *.pws
 .swp
 *.rar
